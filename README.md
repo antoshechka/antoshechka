@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @antoshechka
+- 👀 I’m interested in CSS and HTML
+- 🌱 I’m currently learning Grid and Flex
+- 💞️ I’m looking to collaborate on php devs
+- 📫 https://t.me/+MKuSXE6heiY3NTQy
